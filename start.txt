@@ -1,3 +1,4 @@
 first line in file
 second line in file 
 third line added
+forth line added in new
