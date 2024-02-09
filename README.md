@@ -13,9 +13,8 @@
 </details>
  
 <details>
-<summary>Data Structures</summary>
+<summary>Data Structures        ### [Problem List](https://docs.google.com/spreadsheets/d/1lObCfTSXvZh4sQKiOdeEoWRRwMr9rfYnJwHdrYdIu8Q/edit?usp=sharing) </summary>
 
-### [Problem List](https://docs.google.com/spreadsheets/d/1lObCfTSXvZh4sQKiOdeEoWRRwMr9rfYnJwHdrYdIu8Q/edit?usp=sharing)
 ### [First session](/DS/First_Session)
 * Pointers , Arrays , Vector , String.
 ### [Second session](/DS/Second_Session)
