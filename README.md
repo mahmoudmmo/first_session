@@ -1,8 +1,6 @@
 # Content-23 :construction:
 [GitHub](https://github.com/Open-Source-Community/Science-and-Tech-23-materials)- [Mohamed Samy](https://github.com/Mohamed-Samy26) Season
 # Season-24 :round_pushpin:
-#### Mahmoud's [plan](/Plan) for Season.
-#### [Interviewing](./interview) and Accepting new [20](/members) member.
 ## Content :newspaper:
 <details>
 <summary>Tools</summary>
@@ -29,37 +27,3 @@
 ### [Fifth session](/DS/Fifth_Session)
 * Solving problems on whole content
 </details>
-
-<details>
-<summary>Database</summary>
-
-### [First session](/DB)
-* Not yet
-### [Second session](/DB)
-* Not yet
-### [Third session](/DB)
-* Not yet
-### [Forth session](/DB)
-* Not yet
-</details>
-
-<details>
-<summary>API's</summary>
-
-### [First session](/API'S)
-* Not yet
-### [Second session](/API'S)
-* Not yet
-### [Third session](/API'S)
-* Not yet
-### [Forth session](/API'S)
-* Not yet
-
-</details>
-
-
-
-
-
-
-Check [Books](/Books) for the books we will cover in these topics.
