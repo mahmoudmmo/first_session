@@ -1,5 +1,5 @@
 # Season-24 :round_pushpin:
-#### Mahmoud's [plan](/plan) for Season.
+#### Mahmoud's [plan](/Plan) for Season.
 #### [Interviewing](./interview) and Accepting new [20](/members) member.
 ## Content :newspaper:
 <details>
