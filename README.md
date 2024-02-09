@@ -15,7 +15,7 @@
 <details>
 <summary>Data Structures</summary>
 
-### [First session](/DS)
+### [First session](/DS/First_Session)
 * Pointers , Arrays , Vector , String.
 ### [Second session](/DS)
 * Linked list , Stack ,Queue. 
