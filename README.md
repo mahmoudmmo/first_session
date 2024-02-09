@@ -1,8 +1,6 @@
 # Season-24 :round_pushpin:
-*This repository is for content delivered to the Science & Tech committee (content creators).*
-## First Sal5an :sparkles:
 #### Mahmoud's [plan](/plan) for Season.
-#### [Interviewing](./interview) 35 student and Accept [20](/members) new member.
+#### [Interviewing](./interview) and Accepting new [20](/members) member.
 ## Content :newspaper:
 <details>
 <summary>Tools</summary>
