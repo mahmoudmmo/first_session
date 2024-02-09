@@ -15,7 +15,7 @@
 <details>
 <summary>Data Structures</summary>
 
-### [Problem List](/DS/Problems)
+### [Problem List](https://docs.google.com/spreadsheets/d/1lObCfTSXvZh4sQKiOdeEoWRRwMr9rfYnJwHdrYdIu8Q/edit?usp=sharing)
 ### [First session](/DS/First_Session)
 * Pointers , Arrays , Vector , String.
 ### [Second session](/DS/Second_Session)
