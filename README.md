@@ -22,8 +22,4 @@
 * Linked list , Stack ,Queue. 
 ### [Third session](/DS/Third_Session)
 * Tree , Binary tree , Binary search tree , Dfs ,Bfs ,Recursion
-### [Forth session](/DS/Forth_Session)
-* Delete in BST,set map unordered map ,hash table.
-### [Fifth session](/DS/Fifth_Session)
-* Solving problems on whole content
 </details>
